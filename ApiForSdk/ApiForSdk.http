@@ -1,0 +1,6 @@
+@ApiForSdk_HostAddress = http://localhost:5296
+
+GET {{ApiForSdk_HostAddress}}/api/sdk
+Accept: application/json
+
+###
